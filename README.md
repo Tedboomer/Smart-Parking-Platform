@@ -176,3 +176,175 @@ Each weekly update will include:
 - A 1-2 minute progress video
 - Public GitHub repository link
 - MS Stream video link
+
+# Homework 2 - Work Breakdown Structure and Project Timeline
+
+## Work Breakdown Structure (WBS)
+
+The Work Breakdown Structure breaks the Smart Parking Platform into smaller parts. This makes the project easier to organize and helps the development teams understand what work needs to be completed.
+
+## 1.0 Smart Parking Platform
+
+### 1.1 Authentication System
+
+#### 1.1.1 User Registration
+- Allow new users to create an account
+- Collect name, email, password, and basic information
+- Check that required information is entered
+
+#### 1.1.2 User Login
+- Allow registered users to log in
+- Verify email and password
+- Display an error if the login information is incorrect
+
+#### 1.1.3 Session Management
+- Keep users logged in while using the system
+- Allow users to log out
+- Protect user accounts from unauthorized access
+
+### 1.2 User and Operator Management
+
+#### 1.2.1 User Profile
+- Allow users to view their profile
+- Allow users to update personal information
+- Allow users to change their password
+
+#### 1.2.2 Vehicle Management
+- Allow users to add a vehicle
+- Store license plate information
+- Allow users to edit or remove a vehicle
+
+#### 1.2.3 Parking Operator Setup
+- Allow parking operators to create an operator account
+- Allow operators to manage their information
+- Give operators access to parking management tools
+
+### 1.3 Parking Dashboard
+
+#### 1.3.1 Garage Management
+- Add new parking garages
+- Edit garage information
+- Remove parking garages
+- Update parking prices
+- Update hours of operation
+
+#### 1.3.2 Find Parking
+- Search for nearby parking
+- View parking locations on a map
+- Show available parking spaces
+- Show parking prices
+
+#### 1.3.3 Parking Reservation
+- Select a parking location
+- Choose a parking date and time
+- Reserve a parking space
+- Cancel a reservation if needed
+
+### 1.4 Payment System
+
+#### 1.4.1 Payment Information
+- Allow users to enter payment information
+- Connect the system to a third-party payment provider
+- Protect payment information
+
+#### 1.4.2 Process Payment
+- Allow users to pay for parking
+- Confirm successful payments
+- Display an error if a payment fails
+
+#### 1.4.3 Receipts
+- Create a receipt after payment
+- Allow users to view past receipts
+- Store payment history
+
+### 1.5 Garage Monitoring
+
+#### 1.5.1 Parking Availability
+- Monitor available parking spaces
+- Update parking availability
+- Show spaces as available or occupied
+
+#### 1.5.2 Occupancy Monitoring
+- Track how full each parking garage is
+- Display occupancy information to operators
+- Update occupancy information when cars enter or leave
+
+#### 1.5.3 Notifications
+- Notify users about reservations
+- Notify users when parking time is almost finished
+- Send alerts about parking changes
+
+### 1.6 Reporting System
+
+#### 1.6.1 Occupancy Reports
+- Show garage occupancy information
+- Create graphs showing parking usage
+- Compare parking activity over time
+
+#### 1.6.2 Financial Reports
+- Show parking payments
+- Show total revenue
+- Allow reports to be exported
+
+#### 1.6.3 Usage Reports
+- Show the number of reservations
+- Show popular parking locations
+- Help operators understand parking activity
+
+### 1.7 Testing
+
+#### 1.7.1 Authentication Testing
+- Test registration
+- Test login
+- Test logout
+
+#### 1.7.2 Parking System Testing
+- Test parking search
+- Test reservations
+- Test garage availability
+
+#### 1.7.3 Payment Testing
+- Test successful payments
+- Test failed payments
+- Test receipts
+
+#### 1.7.4 Final System Testing
+- Test the complete system
+- Fix major problems
+- Make sure all main requirements work
+
+## Draft Project Timeline
+
+The Smart Parking Platform will be developed throughout the semester. The project will be completed in different stages so each major part can be planned, developed, tested, and reviewed.
+
+| Project Task | Start Date | End Date |
+|---|---|---|
+| Project Kickoff and Research | September 1 | September 11 |
+| Create WBS and Project Timeline | September 12 | September 17 |
+| Finalize Requirements | September 18 | September 25 |
+| Create Use Cases | September 21 | October 2 |
+| Design User Interface | September 28 | October 9 |
+| Design Database | October 5 | October 16 |
+| Develop Authentication System | October 12 | October 23 |
+| Develop User/Operator Features | October 19 | October 30 |
+| Develop Parking Dashboard | October 26 | November 6 |
+| Develop Reservation System | November 2 | November 13 |
+| Develop Payment System | November 9 | November 20 |
+| Develop Reporting Features | November 16 | November 27 |
+| System Testing | November 23 | December 4 |
+| Fix Problems and Final Review | November 30 | December 8 |
+| Final Project Submission | December 9 | December 11 |
+
+## Gantt Chart
+
+![Smart Parking Platform Gantt Chart](smart_parking_gantt_chart.png)
+
+## Project Timeline Explanation
+
+The project will start with research, requirements, and planning. After the planning stage, Ted Corp. will work on the design of the system, including the user interface and database.
+
+Development will then begin with the authentication system, user and operator features, parking dashboard, reservation system, payments, and reporting.
+
+Testing will be completed near the end of the semester. During testing, the team will check the major features of the Smart Parking Platform and fix any problems that are found.
+
+The final step will be reviewing the entire project and preparing it for final submission.
