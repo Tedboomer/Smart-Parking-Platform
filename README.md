@@ -348,3 +348,19 @@ Development will then begin with the authentication system, user and operator fe
 Testing will be completed near the end of the semester. During testing, the team will check the major features of the Smart Parking Platform and fix any problems that are found.
 
 The final step will be reviewing the entire project and preparing it for final submission.
+
+<img width="945" height="479" alt="Screenshot 2026-09-23 215114" src="https://github.com/user-attachments/assets/2974cc38-f8b7-4b81-a4c2-d2000dfd4888" />
+
+## Product Backlog and Sprint 1
+
+The screenshot above shows the Smart Parking Platform product backlog created in Trello.
+
+The backlog includes tasks for:
+- Login and authentication
+- User and operator interface
+- Backend processes
+- Reporting
+
+For Sprint 1, I selected the basic account features that need to be completed first. These include user registration, login, password recovery, logout, session management, account storage, login verification, the user home page, and the user profile.
+
+The goal of Sprint 1 is to complete the main account and login features before moving on to parking, payment, and reporting features.
