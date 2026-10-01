@@ -364,3 +364,85 @@ The backlog includes tasks for:
 For Sprint 1, I selected the basic account features that need to be completed first. These include user registration, login, password recovery, logout, session management, account storage, login verification, the user home page, and the user profile.
 
 The goal of Sprint 1 is to complete the main account and login features before moving on to parking, payment, and reporting features.
+
+# Risk and Communication Management
+
+## Smart Parking App Risk Management
+
+The Smart Parking App can face different problems during development. These risks can affect the technology, project schedule, cost, or people working on the project.
+
+## Technical Risks
+
+1. The parking availability system may not update correctly in real time.
+2. The payment system may have problems connecting to a third-party payment service.
+3. The mobile or web application may have bugs that cause features to stop working.
+4. The mapping and GPS service may give incorrect parking locations.
+
+## Schedule Risks
+
+1. Some development tasks may take longer than expected.
+2. Testing may find problems that delay the project.
+3. Third-party services may take longer to connect to the system.
+4. Team members may fall behind on assigned tasks.
+
+## Financial Risks
+
+1. Third-party services may become more expensive.
+2. Cloud hosting costs could increase as more users use the system.
+3. Fixing major software problems could increase development costs.
+4. Payment providers may charge transaction or service fees.
+
+## People Risks
+
+1. A team member may be unavailable during an important part of the project.
+2. Team members may misunderstand project requirements.
+3. Poor communication could cause work to be repeated.
+4. Some team members may need more training to complete certain tasks.
+
+# Risk Register
+
+The risk register is used to track important risks and decide how the team should respond to them.
+
+| ID | Risk Description | Probability | Impact | Owner | Response Strategy | Status / Notes |
+|---|---|---|---|---|---|---|
+| R1 | Parking availability does not update correctly | Medium | High | Backend Team | Test updates and monitor the system | Open |
+| R2 | Payment service connection fails | Medium | High | Payment Team | Test payment API and have backup options | Open |
+| R3 | Application has major software bugs | Medium | High | QA Team | Test features throughout development | In Progress |
+| R4 | GPS or mapping information is incorrect | Low | Medium | Mapping Team | Test map data and location services | Open |
+| R5 | Development tasks take longer than planned | Medium | High | Project Manager | Review schedule every week | Open |
+| R6 | Testing causes project delays | Medium | Medium | QA Team | Begin testing early | Open |
+| R7 | Third-party API integration is delayed | Medium | Medium | Backend Team | Start integration early | Open |
+| R8 | Cloud service costs increase | Low | Medium | Project Manager | Monitor system usage and costs | Open |
+| R9 | Team member becomes unavailable | Low | Medium | Project Manager | Assign backup team members | Open |
+| R10 | Team members misunderstand requirements | Medium | High | Project Manager | Review requirements during meetings | Open |
+| R11 | Communication between teams is poor | Medium | Medium | Project Manager | Hold regular project meetings | Open |
+| R12 | User data or account information is exposed | Low | High | Security Team | Use secure login and protect stored information | Open |
+
+# Communication Plan
+
+The communication plan explains how the different teams will communicate during the Smart Parking App project.
+
+| Team / Stakeholder | Communication Method | How Often | Information Shared |
+|---|---|---|---|
+| Project Manager | Microsoft Teams meeting | Weekly | Overall project progress and problems |
+| Mobile Application Team | Teams / Trello | Twice a week | Mobile app development progress |
+| Web Application Team | Teams / Trello | Twice a week | Website development progress |
+| Backend/API Team | Teams / Trello | Twice a week | Database and API progress |
+| Mapping & Location Team | Teams | Weekly | Maps, GPS, and location updates |
+| Payment Integration Team | Teams | Weekly | Payment system progress and problems |
+| Quality Assurance Team | Teams / Trello | Weekly | Testing results and software bugs |
+| Project Stakeholders | Weekly video update | Weekly | Project progress and major changes |
+
+## Reporting Methods
+
+The project teams will use Microsoft Teams and Trello to communicate and track work. Trello will be used to show tasks that are planned, in progress, being tested, or completed.
+
+Microsoft Teams will be used for meetings and team discussions. Important problems will be reported to the project manager as soon as they are discovered.
+
+A weekly stakeholder video will also be created to explain what was completed during the week and what will be worked on next.
+
+## Summary
+
+This risk and communication plan will help Ted Corp. identify possible problems before they have a major effect on the Smart Parking App. The risk register will be updated as the project continues.
+
+Regular communication between the development teams will help keep the project organized and make sure everyone understands what work needs to be completed.
