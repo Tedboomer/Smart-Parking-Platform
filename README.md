@@ -446,3 +446,124 @@ A weekly stakeholder video will also be created to explain what was completed du
 This risk and communication plan will help Ted Corp. identify possible problems before they have a major effect on the Smart Parking App. The risk register will be updated as the project continues.
 
 Regular communication between the development teams will help keep the project organized and make sure everyone understands what work needs to be completed.
+
+# Homework - Roles, Resources, Cost Plan, and RACI Matrix
+
+## 1. Roles and Resources
+
+The Smart Parking Platform project will use a fictional team with different roles and skill levels. Each team member will be assigned a percentage based on how much time they are expected to spend on the project.
+
+| Team Member | Role | Skill Level | Allocation |
+|---|---|---|---:|
+| Theodore Horne-Martac | Project Manager | Intermediate | 50% |
+| Alex Johnson | Mobile App Developer | Advanced | 75% |
+| Sarah Miller | Web Developer | Advanced | 75% |
+| David Lee | Backend/API Developer | Advanced | 100% |
+| Maria Garcia | Database Developer | Intermediate | 60% |
+| James Wilson | UI/UX Designer | Intermediate | 50% |
+| Emily Brown | QA/Test Engineer | Intermediate | 60% |
+| Michael Davis | Security Specialist | Advanced | 40% |
+| Jessica Moore | Payment Integration Developer | Advanced | 50% |
+| Chris Taylor | Mapping/Location Developer | Intermediate | 50% |
+
+### Role Responsibilities
+
+The Project Manager will organize the project, track progress, and communicate with stakeholders.
+
+The Mobile App Developer will work on the mobile version of the Smart Parking Platform.
+
+The Web Developer will work on the website and operator dashboard.
+
+The Backend/API Developer will handle server-side processes, APIs, reservations, and system connections.
+
+The Database Developer will design and maintain the system database.
+
+The UI/UX Designer will create simple and easy-to-use screens for users and parking operators.
+
+The QA/Test Engineer will test the system and report bugs.
+
+The Security Specialist will help protect user accounts, payment data, and other private information.
+
+The Payment Integration Developer will connect the system to payment services.
+
+The Mapping/Location Developer will work on maps, parking locations, and navigation features.
+
+## 2. Resource and Cost Plan
+
+For this project, a bottom-up cost plan will be used. The estimated cost is based on the number of hours each role is expected to work and an estimated hourly rate.
+
+| Role | Estimated Hours | Hourly Rate | Estimated Cost |
+|---|---:|---:|---:|
+| Project Manager | 160 | $45 | $7,200 |
+| Mobile App Developer | 240 | $50 | $12,000 |
+| Web Developer | 240 | $50 | $12,000 |
+| Backend/API Developer | 320 | $55 | $17,600 |
+| Database Developer | 180 | $45 | $8,100 |
+| UI/UX Designer | 140 | $40 | $5,600 |
+| QA/Test Engineer | 180 | $40 | $7,200 |
+| Security Specialist | 100 | $60 | $6,000 |
+| Payment Integration Developer | 120 | $55 | $6,600 |
+| Mapping/Location Developer | 120 | $50 | $6,000 |
+
+### Estimated Labor Cost
+
+Total estimated labor cost: **$88,300**
+
+### Other Project Costs
+
+| Resource | Estimated Cost |
+|---|---:|
+| Cloud hosting | $3,000 |
+| Mapping/API services | $2,000 |
+| Testing tools | $1,500 |
+| Development software | $2,000 |
+| Security tools | $1,500 |
+| Other project expenses | $2,000 |
+
+Total other project costs: **$12,000**
+
+### Total Estimated Project Budget
+
+**$100,300**
+
+## Monthly Budgeted Cash Flow
+
+| Month | Estimated Cost |
+|---|---:|
+| September | $18,000 |
+| October | $30,000 |
+| November | $34,000 |
+| December | $18,300 |
+| **Total** | **$100,300** |
+
+The project is expected to cost more during October and November because most development and testing activities will take place during those months.
+
+## 3. RACI Matrix
+
+RACI stands for:
+
+- **R - Responsible:** Person who completes the work
+- **A - Accountable:** Person who is responsible for making sure the work is completed
+- **C - Consulted:** Person who gives input
+- **I - Informed:** Person who needs updates
+
+| Project Task | Project Manager | Mobile/Web Team | Backend/Database Team | QA Team | Security Team |
+|---|---|---|---|---|---|
+| Project Planning | A/R | I | I | I | I |
+| Requirements | A/R | C | C | C | C |
+| User Interface Design | A | R | C | C | I |
+| Database Design | A | I | R | C | C |
+| Authentication System | A | C | R | C | C |
+| Parking Search and Maps | A | R | C | C | I |
+| Reservation System | A | C | R | C | I |
+| Payment System | A | C | R | C | C |
+| Security Testing | A | I | C | C | R |
+| System Testing | A | C | C | R | C |
+| Final Review | A/R | C | C | C | C |
+| Project Submission | A/R | I | I | I | I |
+
+## Summary
+
+The resource plan identifies the people needed to complete the Smart Parking Platform and explains their responsibilities. The cost plan estimates how much the project could cost based on labor and other project resources.
+
+The RACI matrix helps make sure each team member understands who is responsible, accountable, consulted, or informed for each major project task.
