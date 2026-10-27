@@ -575,3 +575,166 @@ This week I reviewed the Smart Parking Platform project and updated the existing
 I reviewed the SRS, user stories, WBS, project timeline, Gantt chart, product backlog, Sprint 1 information, risks, communication plan, roles, cost plan, and RACI matrix.
 
 I also checked the previous sections to make sure the information was consistent with the current project plan. The project documentation is now up to date based on the work completed so far.
+
+# Homework - Stakeholder Analysis and Project Charters
+
+## 1. Stakeholder Analysis - Power–Interest Grid
+
+The Power–Interest Grid helps identify which stakeholders need the most attention during the Smart Parking Platform project.
+
+### High Power / High Interest - Manage Closely
+
+- Project Manager
+- Parking Facility Operators
+- City Transportation Department
+- System Administrators
+
+These stakeholders have a major impact on the project and need regular updates and involvement in important decisions.
+
+### High Power / Low Interest - Keep Satisfied
+
+- Finance and Billing Personnel
+- Third-Party Payment Providers
+
+These stakeholders can affect the project but do not need to be involved in every project decision.
+
+### Low Power / High Interest - Keep Informed
+
+- Drivers and Vehicle Owners
+- Mobile Application Users
+- Web Application Users
+
+These stakeholders are very interested in how the system works, so they should receive updates about features and changes.
+
+### Low Power / Low Interest - Monitor
+
+- General Public
+- Outside Vendors
+
+These stakeholders do not need frequent communication, but they should still be monitored in case their involvement changes.
+
+## 2. Team Charter
+
+### Team Name
+
+Ted Corp. Smart Parking Platform Team
+
+### Team Purpose
+
+The purpose of the team is to plan and develop a Smart Parking Platform that allows drivers to find, reserve, and pay for parking while giving parking operators tools to manage garages and monitor parking activity.
+
+### Team Goals
+
+- Complete the project within the semester timeline
+- Build an easy-to-use parking platform
+- Complete assigned project tasks on time
+- Maintain good communication between team members
+- Identify and resolve project problems early
+- Produce accurate project documentation
+
+### Team Roles
+
+- Project Manager - manages the project and tracks progress
+- Mobile App Developer - works on the mobile application
+- Web Developer - develops the website and operator dashboard
+- Backend/API Developer - manages backend processes and APIs
+- Database Developer - manages project data and database design
+- UI/UX Designer - designs the user interface
+- QA/Test Engineer - tests the system and reports problems
+- Security Specialist - reviews security and privacy
+- Payment Integration Developer - works on payment features
+- Mapping/Location Developer - handles maps and location services
+
+### Team Communication
+
+The team will use Microsoft Teams and Trello to communicate and track project work.
+
+Team members will provide regular updates on their assigned tasks and report problems as soon as possible.
+
+### Team Expectations
+
+- Complete assigned work on time
+- Attend scheduled meetings
+- Communicate problems early
+- Respect other team members
+- Keep project information updated
+- Help other team members when needed
+
+### Decision Making
+
+The team will discuss major project decisions together. The Project Manager will make the final decision when the team cannot reach an agreement.
+
+## 3. Project Charter
+
+### Project Name
+
+Smart Parking Platform
+
+### Company
+
+Ted Corp.
+
+### Project Purpose
+
+The purpose of the Smart Parking Platform is to make it easier for drivers to find available parking, reserve parking spaces, and pay electronically.
+
+The system will also provide parking operators with tools to manage parking facilities, monitor occupancy, and review reports.
+
+### Business Need
+
+Drivers often spend too much time searching for parking, especially in busy areas. This can cause traffic congestion, wasted fuel, and frustration.
+
+Parking operators also need better tools to monitor parking availability and manage their facilities.
+
+### Project Objectives
+
+- Provide real-time parking availability
+- Allow users to search for parking locations
+- Allow users to reserve parking spaces
+- Allow users to make digital payments
+- Provide navigation to parking locations
+- Provide parking operators with a management dashboard
+- Provide occupancy and financial reports
+- Provide a secure and easy-to-use system
+
+### Project Scope
+
+The project will include:
+
+- User registration and login
+- User profiles
+- Vehicle management
+- Parking search
+- Interactive maps
+- Parking reservations
+- Digital payments
+- Reservation history
+- Notifications
+- Operator dashboard
+- Garage management
+- Occupancy reporting
+- Financial reporting
+- Mapping and payment integrations
+
+### Major Stakeholders
+
+- Drivers and vehicle owners
+- Parking facility operators
+- City transportation departments
+- System administrators
+- Finance and billing personnel
+- Third-party payment providers
+- Ted Corp. development team
+
+### Major Risks
+
+- Software bugs
+- Payment integration problems
+- Incorrect parking availability
+- Schedule delays
+- Third-party API problems
+- Security and privacy issues
+
+### Project Success
+
+The project will be considered successful if the main system requirements are completed, the platform is easy to use, the major features work correctly, and the project is completed within the semester timeline.
