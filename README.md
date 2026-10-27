@@ -738,3 +738,6 @@ The project will include:
 ### Project Success
 
 The project will be considered successful if the main system requirements are completed, the platform is easy to use, the major features work correctly, and the project is completed within the semester timeline.
+
+<img width="1536" height="1024" alt="Smart Parking Stakeholder Power–Interest Grid" src="https://github.com/user-attachments/assets/88d7a4c2-0ebf-4970-b5b9-e1b3f07c66d8" />
+
