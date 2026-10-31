@@ -741,3 +741,60 @@ The project will be considered successful if the main system requirements are co
 
 <img width="1536" height="1024" alt="Smart Parking Stakeholder Power–Interest Grid" src="https://github.com/user-attachments/assets/88d7a4c2-0ebf-4970-b5b9-e1b3f07c66d8" />
 
+# Project Closure Report
+**Internal**
+
+## Executive Summary
+
+The Smart Parking Platform project was created to improve the parking experience for drivers and parking facility operators.
+
+The project included planning for user registration, parking search, reservations, payments, maps, reporting, operator management, security, and other system features.
+
+Throughout the semester, the project was developed through different project management activities such as the WBS, Gantt chart, backlog, sprints, risk register, communication plan, cost plan, RACI matrix, stakeholder analysis, and project charters.
+
+Overall, the project successfully created a complete plan for how the Smart Parking Platform could be developed and managed by Ted Corp.
+
+## Achievements and Shortfalls
+
+### Achievements
+
+- Created a complete Smart Parking Platform project plan
+- Defined project requirements and user stories
+- Created a Work Breakdown Structure
+- Created a project timeline and Gantt chart
+- Built a product backlog and planned Sprint 1
+- Identified project risks and created a risk register
+- Created a communication plan
+- Defined team roles and responsibilities
+- Created a project cost plan
+- Created a RACI matrix
+- Completed a stakeholder analysis
+- Created team and project charters
+
+### Shortfalls
+
+One limitation of the project is that the Smart Parking Platform was mainly planned and documented rather than fully developed as a working application.
+
+Some project estimates, such as costs and development time, were based on assumptions because the company and project team are fictional.
+
+Third-party integrations such as payment systems and mapping services would also require additional testing in a real development environment.
+
+## Lessons Learned
+
+One lesson learned from this project is that planning helps make a large software project easier to manage.
+
+Breaking the project into smaller tasks using the WBS and backlog made it easier to understand what work needed to be completed.
+
+The risk register also showed the importance of identifying possible problems early instead of waiting until they affect the project.
+
+Another lesson learned was the importance of communication. Regular updates, clear team roles, and defined responsibilities can help prevent confusion during a project.
+
+## Recommendations for Future Projects
+
+For future projects, I would recommend creating detailed requirements and project schedules as early as possible.
+
+The team should also continue updating the risk register, backlog, and timeline throughout development instead of only reviewing them near the end.
+
+Testing should begin early so problems can be found before the final stages of the project.
+
+Future projects should also include regular feedback from actual users to make sure the system meets their needs.
